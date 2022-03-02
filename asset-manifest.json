@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simplecryptolandingPg/static/css/main.918adc77.css",
+    "main.js": "/simplecryptolandingPg/static/js/main.a8295607.js",
+    "static/media/trade.png": "/simplecryptolandingPg/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/simplecryptolandingPg/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/simplecryptolandingPg/index.html",
+    "main.918adc77.css.map": "/simplecryptolandingPg/static/css/main.918adc77.css.map",
+    "main.a8295607.js.map": "/simplecryptolandingPg/static/js/main.a8295607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918adc77.css",
+    "static/js/main.a8295607.js"
+  ]
+}
